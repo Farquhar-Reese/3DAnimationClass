@@ -36,3 +36,9 @@
     text-align: center;
     margin: 5vw;
 }
+.buttxt2{
+    color: #006cff;
+}
+.buttxt2:hover{
+    color: skyblue;
+}
