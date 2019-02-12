@@ -1,0 +1,33 @@
+.imageSize{
+    height: 85%;
+    width: 100%;
+}
+.ButCenters{
+    display: flex;
+    justify-content: space-around;
+    outline: none;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+}
+.butClass{
+  background-color: DodgerBlue;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 20px;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  transition: 0.5s ease;
+}
+.butClass:hover{
+  background-color: gold;
+}
+.butClass:active{
+  outline: none;
+  background-color: lawngreen;
+}
+.butClass:focus{
+  outline: none;
+}
