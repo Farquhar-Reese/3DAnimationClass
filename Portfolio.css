@@ -31,3 +31,8 @@
 .butClass:focus{
   outline: none;
 }
+.DesTxt{
+    width: 80%;
+    text-align: center;
+    margin: 5vw;
+}
